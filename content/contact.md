@@ -32,13 +32,13 @@ weight = "1"
                         <span class="icon is-medium">
                             <i class="fa fa-calendar-o"></i>
                             </span>
-                            <a href="#">Book a 30 minutes free consultation</a>
+                            <a href="https://calendly.com/epalvalley/30min" target="_blank">Book a 30 minutes free consultation</a>
                     </li>
                     <li>
                         <span class="icon is-medium">
                             <i class="fa fa-comment"></i>
                             </span>
-                            <a href="#">Chat with me</a>
+                            <a onclick="window.drift.api.openChat()">Chat with me</a>
                     </li>
                     <li>
                         <span class="icon is-medium">
