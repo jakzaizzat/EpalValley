@@ -40,12 +40,12 @@ weight = "1"
         <div class="container cta-section">
             <div class="columns">
                 <div class="column is-half is-offset-one-quarter">
-                    <h1 class="has-text-centered">Wow you reached the end of the page! Could that mean that you're interested in working together?</h1>
-                    <a class="button has-text-centered">Hit me up or contact me on Twitter</a>
+                    <h1>Wow you reached the end of the page! Could that mean that you're interested in working together?</h1>
+                    <p>Send me an <span><a href="mailto:hi@epalvalley.com">email</a></span> or ask me at <span><a href="http://twitter.com/jakzaizzat">Twitter</a></span></p>
                 </div>
             </div>
             <div class="cloud">
-                <img src="/image/cloud.svg"/>
+                <img src="/image/panda.svg" class="panda1"/>
             </div>
         </div>
     </div>

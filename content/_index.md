@@ -19,7 +19,6 @@ description = "Epal Valley — Front-end Web Developer for Hire"
         <a class="button">Book a meeting</a>
     </div>
 </div>
-
 </section>
 
 <section class="services">
@@ -57,15 +56,15 @@ description = "Epal Valley — Front-end Web Developer for Hire"
             Some of my latest works
         </h1>
         <div class="columns categories">
-            <div class="category column" style="background-image: url('image/category.jpg');">
-                <h3 class="category_name">PSD to HTML</h3>
-                <p>Swietokrzyskie</p>
-                <a class="button" href="#">view offers</a>
+            <div class="category column" style="background-image: url('image/archinext.png');">
+                <h3 class="category_name">ArchiNext</h3>
+                <p>PSD to HTML Conversion</p>
+                <a class="button" href="http://www.play.epalvalley.com/archinext" target="_blank">Visit Website</a>
             </div>
-            <div class="category column" style="background-image: url('image/category.jpg');">
-                <h3 class="category_name">PSD to WordPress</h3>
-                <p>Have an idea to start a website or project? Don’t know which one is the best for you? Tell me about your idea, and we can brainstorm together and make it happens.</p>
-                <a class="button" href="#">view offers</a>
+            <div class="category column" style="background-image: url('image/pizzaro.png');">
+                <h3 class="category_name">Pizzaro</h3>
+                <p>PSD to HTML Conversion</p>
+                <a class="button" href="http://www.play.epalvalley.com/pizzaro/" target="_blank">Visit Website</a>
             </div>
             
         </div>
@@ -77,12 +76,12 @@ description = "Epal Valley — Front-end Web Developer for Hire"
         <div class="container cta-section">
             <div class="columns">
                 <div class="column is-half is-offset-one-quarter">
-                    <h1 class="has-text-centered">Wow you reached the end of the page! Could that mean that you're interested in working together?</h1>
-                    <a class="button has-text-centered">Call</a>
+                    <h1>Wow you reached the end of the page! Could that mean that you're interested in working together?</h1>
+                    <p>Send me an <span><a href="mailto:hi@epalvalley.com">email</a></span> or ask me at <span><a href="http://twitter.com/jakzaizzat">Twitter</a></span></p>
                 </div>
             </div>
             <div class="cloud">
-                <img src="image/cloud.svg"/>
+                <img src="image/panda.svg" class="panda1"/>
             </div>
         </div>
     </div>
