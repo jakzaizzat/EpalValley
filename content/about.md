@@ -2,7 +2,7 @@
 type = "static"
 page = "static/single.html"
 title = "About"
-description = "About Epal Valley — Front-end Web Developer"
+description = "About Epal Valley — Freelance Front-end Developer Malaysia"
 menu = "main"
 weight = "1"
 +++
@@ -26,7 +26,7 @@ weight = "1"
         <h1 class="title">
             Here’s a little story of how I got started.
         </h1>
-        <img src="/image/cover.jpg"/>
+        <img src="/image/cover.jpg" alt="Dreamcatcher Hackathon"/>
         <figcaption>That’s me presenting in Hackathon</figcaption>
         <p>I have started this business around three years. I start to learn code when I was 19. I’m doing business in selling VPN in my college. To register as an agent, I need to pay around RM700 to get a similar website and agency price. I wonder how he can charge me and get a similar website with him, only the logo and business name is different. At the same time, I bought an iPhone 5 using my money from the VPN business and I’m really into an app design. I fall in love with the design from Apple. I decide to learn a web development in my free time. Most of my time spending on teamtreehouse to learn web development and start playing with code.</p>
         <p>During my studies, I build an e-commerce website for my friend business selling sports jersey. It was a first time I’m building a website that someone except me will use it. I’m playing with WordPress, install a theme, tweak a little bit with CSS and apply Google Analytics. It was fun.</p>
@@ -45,7 +45,7 @@ weight = "1"
                 </div>
             </div>
             <div class="cloud">
-                <img src="/image/panda.svg" class="panda1"/>
+                <img src="/image/panda.svg" alt="panda" class="panda1"/>
             </div>
         </div>
     </div>

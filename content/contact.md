@@ -2,7 +2,7 @@
 type = "static"
 page = "static/single.html"
 title = "Contact"
-description = "Contact Epal Valley — Front-end Web Developer"
+description = "Contact Epal Valley — Freelance Front-end Developer Malaysia"
 menu = "main"
 weight = "1"
 +++
@@ -33,12 +33,6 @@ weight = "1"
                             <i class="fa fa-calendar-o"></i>
                             </span>
                             <a href="https://calendly.com/epalvalley/30min" target="_blank">Book a 30 minutes free consultation</a>
-                    </li>
-                    <li>
-                        <span class="icon is-medium">
-                            <i class="fa fa-comment"></i>
-                            </span>
-                            <a onclick="window.drift.api.openChat()">Chat with me</a>
                     </li>
                     <li>
                         <span class="icon is-medium">

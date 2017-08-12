@@ -1,3 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://epalvalley.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Epal Valley -Freelance Front-End Developer Malaysia for hire"
+enableRobotsTXT = "true"
