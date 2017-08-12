@@ -1,0 +1,23 @@
+{{ partial "header.html" . }}
+
+<div class="hero-body"  style="background:aliceblue;">
+    <div class="container">
+        <h1 class="title">
+            List of Articles
+        </h1>
+    </div>
+</div>
+</section>
+
+<section class="list">
+    <div class="container hero-body">
+            {{ range .Data.Pages }}
+            <li>
+                <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | <span>{{.Title}}</span></a>
+            </li>
+            {{ end }}
+    </div>
+</section>
+
+
+{{ partial "footer.html" . }}

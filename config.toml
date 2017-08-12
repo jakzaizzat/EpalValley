@@ -2,3 +2,6 @@ baseURL = "http://epalvalley.com/"
 languageCode = "en-us"
 title = "Epal Valley -Freelance Front-End Developer Malaysia for hire"
 enableRobotsTXT = "true"
+
+[params]
+    addThis = "ra-531ee76d20003c91"
