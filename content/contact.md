@@ -46,6 +46,12 @@ weight = "1"
                             </span>
                             <a href="mailto:hi@epalvalley.com">Email me at hi@epalvalley.com</a>
                     </li>
+                    <li>
+                        <span class="icon is-medium">
+                            <i class="fa fa-phone"></i>
+                            </span>
+                            <a href="tel:+60145142241">Call me at +6014 5142241</a>
+                    </li>
                 </ul>
             </div>
         </div>

@@ -37,16 +37,15 @@ description = "Epal Valley — Front-end Web Developer for Hire"
             </div>
         </div>
         <div class="columns">
-                <div class="box column">
-                    <h3>WordPress Development</h3>
-                    <p>Have an idea to start a website or project? Don’t know which one is the best for you? Tell me about your idea, and we can brainstorm together and make it happens.</p>
-                </div>
-                <div class="box column">
-                    <h3>Landing Page</h3>
-                    <p>Need a fast website that can sell immediately? Want to collect a leads from your prospect? Let me design a landing page that converts the visitor into your customers. You handle the marketing and let me manage the conversion into the prospect.</p>
-                </div>
+            <div class="box column">
+                <h3>WordPress Development</h3>
+                <p>Have an idea to start a website or project? Don’t know which one is the best for you? Tell me about your idea, and we can brainstorm together and make it happens.</p>
             </div>
-        
+            <div class="box column">
+                <h3>Landing Page</h3>
+                <p>Need a fast website that can sell immediately? Want to collect a leads from your prospect? Let me design a landing page that converts the visitor into your customers. You handle the marketing and let me manage the conversion into the prospect.</p>
+            </div>
+        </div>
     </div>
 </section>
 
@@ -66,7 +65,6 @@ description = "Epal Valley — Front-end Web Developer for Hire"
                 <p>PSD to HTML Conversion</p>
                 <a class="button" href="http://www.play.epalvalley.com/pizzaro/" target="_blank">Visit Website</a>
             </div>
-            
         </div>
     </div>
 </section>
@@ -77,7 +75,7 @@ description = "Epal Valley — Front-end Web Developer for Hire"
             <div class="columns">
                 <div class="column is-half is-offset-one-quarter">
                     <h1>Wow you reached the end of the page! Could that mean that you're interested in working together?</h1>
-                    <p>Send me an <span><a href="mailto:hi@epalvalley.com">email</a></span> or ask me at <span><a href="http://twitter.com/jakzaizzat">Twitter</a></span></p>
+                    <p>Send me an <span><a href="mailto:hi@epalvalley.com">email</a></span> or ask me at <span><a href="http://twitter.com/jakzaizzat" target="_blank">Twitter</a></span></p>
                 </div>
             </div>
             <div class="cloud">
