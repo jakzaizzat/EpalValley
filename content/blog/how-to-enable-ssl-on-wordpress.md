@@ -3,6 +3,7 @@ title: "How to Enable SSL on Wordpress"
 date: 2017-08-09T13:01:11+08:00
 draft: false
 description: "How to Enable SSL on Wordpress"
+featured: "/image/20170809/really simple ssl plugins.png"
 ---
 
 Have an SSL on your website will increase SEO your site on the Google, Increase trustworthy visitors and make user know that you cared the website. I just enable the SSL on this website; this is how I do it. There are manual setup or using plugins. Choose which one was suitable for you. I will teach the harder first (not so much), and then we go to the simple step.  It required around 5 minutes. 
