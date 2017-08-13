@@ -1,6 +1,6 @@
 {{ partial "header.html" . }}
 
-<div class="hero-body content-meta" style="background-image: url('image/cover.jpg');">
+<div class="hero-body content-meta" {{ with .Params.featured }} style="background-image: url('{{ . }}');" {{ end }}>
     <div class="container">
         <h1 class="title">
                 {{ .Title }}

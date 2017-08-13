@@ -23,8 +23,7 @@ weight = "1"
         <div class="columns contacts">
             <div class="column is-half">
                 <h1>Don't be shy!</h1>
-                <p>Whether you want to talk business or just chat, say hi! If I'm not currently online I’ll get back to you asap.</p>
-                <p>Im currently at Kuala Terengganu if you want to meet.</p>
+                <p>Whether you want to talk business or just chat, say hi! </p>
             </div>
             <div class="column is-half">
                 <ul>
@@ -45,6 +44,12 @@ weight = "1"
                             <i class="fa fa-phone"></i>
                             </span>
                             <a href="tel:+60145142241">Call me at +6014 5142241</a>
+                    </li>
+                    <li>
+                        <span class="icon is-medium">
+                            <i class="fa fa-whatsapp"></i>
+                            </span>
+                            <a href="http://epalvalley.wasap.my/" target="_blank">You can whatsapp me too.</a>
                     </li>
                 </ul>
             </div>

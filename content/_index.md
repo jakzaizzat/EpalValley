@@ -57,12 +57,12 @@ description = "Epal Valley — Front-end Web Developer for Hire"
             <div class="category column" style="background-image: url('image/archinext.png');">
                 <h3 class="category_name">ArchiNext</h3>
                 <p>PSD to HTML Conversion</p>
-                <a class="button" href="http://www.play.epalvalley.com/archinext" target="_blank">Visit Website</a>
+                <a class="button" href="https://jakzaizzat.github.io/Pizzaro/" target="_blank">Visit Website</a>
             </div>
             <div class="category column" style="background-image: url('image/pizzaro.png');">
                 <h3 class="category_name">Pizzaro</h3>
                 <p>PSD to HTML Conversion</p>
-                <a class="button" href="http://www.play.epalvalley.com/pizzaro/" target="_blank">Visit Website</a>
+                <a class="button" href="https://jakzaizzat.github.io/ArchiNext/" target="_blank">Visit Website</a>
             </div>
         </div>
     </div>
