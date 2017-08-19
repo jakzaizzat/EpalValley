@@ -9,7 +9,7 @@ weight = "1"
 
 
 <!-- Hero content: will be in the middle -->
-<div class="hero-body bg-alice">
+<div class="hero-body bg-polygon">
     <div class="container">
         <h1 class="title">
             Let’s build something great together.
