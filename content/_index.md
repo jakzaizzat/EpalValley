@@ -15,7 +15,7 @@ description = "Epal Valley — Front-end Web Developer for Hire"
         <h2 class="subtitle">
             I code your awesome <span>PSD</span> design and make it functioning on your browser. I able to make it in <span>WordPress</span> template too.
         </h2>
-        <a class="button" href="https://calendly.com/epalvalley/30min" target="_blank">Book a meeting</a>
+        <a class="button" href="https://jakz.typeform.com/to/UuaiNf" target="_blank">Get Instant Quote</a>
     </div>
 </div>
 </section>

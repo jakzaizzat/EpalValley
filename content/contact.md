@@ -47,9 +47,9 @@ weight = "1"
                     </li>
                     <li>
                         <span class="icon is-medium">
-                            <i class="fa fa-whatsapp"></i>
+                            <i class="fa fa-rocket"></i>
                             </span>
-                            <a href="http://epalvalley.wasap.my/" target="_blank">You can whatsapp me too.</a>
+                            <a href="https://jakz.typeform.com/to/UuaiNf" target="_blank">Get instant quote</a>
                     </li>
                 </ul>
             </div>
