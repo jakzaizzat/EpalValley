@@ -31,7 +31,7 @@ weight = "1"
                         <span class="icon is-medium">
                             <i class="fa fa-calendar-o"></i>
                             </span>
-                            <a href="https://calendly.com/epalvalley/30min" target="_blank">Book a 30 minutes free consultation</a>
+                            <a href="http://bit.ly/2vzCmhN" target="_blank">Book a 30 minutes free consultation</a>
                     </li>
                     <li>
                         <span class="icon is-medium">
@@ -49,7 +49,7 @@ weight = "1"
                         <span class="icon is-medium">
                             <i class="fa fa-rocket"></i>
                             </span>
-                            <a href="https://jakz.typeform.com/to/UuaiNf" target="_blank">Get instant quote</a>
+                            <a href="http://bit.ly/2iy7ZXu" target="_blank">Get instant quote</a>
                     </li>
                 </ul>
             </div>
